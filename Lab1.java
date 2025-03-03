@@ -117,5 +117,7 @@ public class Lab1{
         int size = 1000;
         MatrixOperations.generateData(size);
         MatrixOperations.parallelComputation();
+        System.out.println("Вніс зміни");
     }
+
 }
